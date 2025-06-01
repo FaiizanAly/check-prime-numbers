@@ -23,8 +23,8 @@ This is a basic Java program that allows users to check whether a number is prim
 
 ## 📌 Sample Output
 
-`Enter a number: 17`
-`17 is a Prime Number`
+- `Enter a number: 17`
+- `17 is a Prime Number`
 
 ## 👤 Author
 
